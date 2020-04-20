@@ -1,0 +1,24 @@
+Echoer Client and Server Packages
+
+Qualys Inc. (c) 2020, <https://www.qualys.com>
+MIT License <https://opensource.org/licenses/MIT>
+
+ECHOER project is made for the purpose of demonstrating
+client-server communication over a computer network.
+
+As part of the project, there are two packages within it.
+
+ECHOER is the client utility of the ECHOER project.
+Client connects to the server at a specified server-address.
+Upon successful connection, client can send messages to the
+server. To which, server replies back with same message.
+
+ECHOERD is the server utility of the ECHOER project.
+it runs in server-mode and listens on a socket address.
+It accepts connections from clients on a user-specified
+network address.
+Upon a successful connection, ECHOERD accepts messages from
+the ECHOER client.
+For every message received from client, server sends back
+the same message as a response to the client (hence the
+name 'ECHOER').

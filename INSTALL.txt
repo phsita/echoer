@@ -1,0 +1,15 @@
+There are two parts of the ECHOER Project.
+ECHOER is the client and ECHOERD is the server.
+
+To compile both packages from source, you will require following dependencies -
+1. Linux 2.6.3+ based operating system as the platform
+2. gcc
+3. gnu automake tools
+
+Once the dependencies are met, run this below command from the project directory
+on the shell to build client and server packages altogether in one go -
+$ make
+
+After this, the binaries should be compiled and available at ./bin directory
+
+To refer help with invocation of utilities, try command argument flags -- '-h' or '--help'
