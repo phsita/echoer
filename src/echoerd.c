@@ -169,8 +169,10 @@ void print_version() {
 
         /* MIT LICENSE TEXT BODY <https://opensource.org/licenses/MIT> */
         "Echoerd  %s\n"
-        "Qualys Inc. (c) 2020, <https://www.qualys.com>\n"
+
         "MIT License <https://opensource.org/licenses/MIT>\n\n"
+
+        "Copyright (c) 2020 Atish Pandey, April 2020\n\n"
 
         "Permission is hereby granted, free of charge, to any\n"
         "person obtaining a copy of this software and associated\n"
