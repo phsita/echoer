@@ -210,7 +210,7 @@ void print_version() {
 
         "MIT License <https://opensource.org/licenses/MIT>\n\n"
 
-        "Copyright (c) 2020 Atish Pandey, April 2020\n\n"
+        "Copyright (c) Atish Pandey, April 2020\n\n"
 
         "Permission is hereby granted, free of charge, to any\n"
         "person obtaining a copy of this software and associated\n"
